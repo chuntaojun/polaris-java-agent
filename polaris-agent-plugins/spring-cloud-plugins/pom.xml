@@ -17,6 +17,7 @@
 		<module>spring-cloud-2021-plugin</module>
 		<module>spring-cloud-2020-plugin</module>
 		<module>spring-cloud-hoxton-plugin</module>
+		<module>spring-cloud-common</module>
 	</modules>
 
 	<properties>
